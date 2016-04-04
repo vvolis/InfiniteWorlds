@@ -70,3 +70,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Assets/BezierCurves.meta
+Assets/BezierCurves/Editor.meta
+Assets/BezierCurves/Editor/BezierCurveEditor.cs
+*.meta
+Assets/BezierCurves/Editor/BezierPointEditor.cs
+Assets/BezierCurves/Example.unity
+Assets/BezierCurves/Scripts/BezierPoint.cs
+Assets/BezierCurves/readme.txt
+Assets/BezierCurves/Scripts/BezierCurve.cs
