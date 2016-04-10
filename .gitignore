@@ -79,3 +79,7 @@ Assets/BezierCurves/Example.unity
 Assets/BezierCurves/Scripts/BezierPoint.cs
 Assets/BezierCurves/readme.txt
 Assets/BezierCurves/Scripts/BezierCurve.cs
+Assets/Standard Assets/
+Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx
+Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav
+Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs

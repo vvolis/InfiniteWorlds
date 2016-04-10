@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
+//TODO: Fix first/last pipe vertex normals
+
 public class MeshBuilder
 {
 	public List<Vector3> vertices = new List<Vector3>();

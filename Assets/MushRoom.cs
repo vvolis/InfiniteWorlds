@@ -127,7 +127,6 @@ public class MushroomConfig
 		config.createCaps = false;
 		config.bendAngle = 0; //Random?
 		config.height = capHeight - capThickness;
-		Debug.Log("capheight" + capHeight);
 		config.radius = capRadius;
 		config.flipNormals = true;
 		config.WidthModifier = CapWidth;
