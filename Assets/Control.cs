@@ -16,7 +16,7 @@ public class Control : MonoBehaviour {
 	void Start()
 	{
 		config = new MushroomConfig();
-		StartCoroutine(ReGenerate(1F));
+		StartCoroutine(ReGenerate(0.1F));
 		//Generate();
 
 	}
@@ -45,6 +45,7 @@ public class Control : MonoBehaviour {
 
 		//Debug.Log("Generation" + generation);
 		//this.CreateFence();
+		config.Generate();
 		MushRoom shroom = new MushRoom(config);
 		//Create the mesh:
 		Mesh mesh = shroom.Create();
